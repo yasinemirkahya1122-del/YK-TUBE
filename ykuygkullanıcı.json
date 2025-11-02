@@ -1,4 +1,17 @@
 [
-  {"kullanici": "Yunus", "sifre": "001", "gmail": "yunus@gmail.com"},
-  {"kullanici": "Kayra", "sifre": "001", "gmail": "kayra@gmail.com"}
+  {
+    "kullanici": "Yunus",
+    "sifre": "001",
+    "gmail": "yunus@gmail.com"
+  },
+  {
+    "kullanici": "Kayra",
+    "sifre": "001",
+    "gmail": "kayra@gmail.com"
+  },
+  {
+    "kullanici": "Gizem",
+    "sifre": "001",
+    "gmail": "gizem@gmail.com"
+  }
 ]
